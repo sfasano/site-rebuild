@@ -12,6 +12,6 @@ There are three main sections:
 
 I made use of:
 * https://gsnedders.html5.org/outliner - to test my structure
-* and of course apple.com
+* and of course http://www.apple.com
 
 
